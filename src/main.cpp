@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     
     app.setApplicationName ("QQStars");
     app.setApplicationVersion ("1.0.0");
-    app.setOrganizationName ("雨后星辰");
+    app.setOrganizationName ("雨后星辰  ");
     app.setApplicationDisplayName ("星辰QQ");
     
     QTranslator *translator = new QTranslator;
